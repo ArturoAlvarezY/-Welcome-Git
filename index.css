@@ -1,0 +1,19 @@
+body{
+	background-color: white;
+}
+
+.firstContainer{
+	background-image:url(pexels-rishi-ramoutar-3463164-5176713.jpeg);
+	background-size: auto;
+	background-position: center;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+}
+
+.welcomeBaby{
+	display: flex;
+	font-style: italic;
+	font-size: large;
+	display: flex;
+}

@@ -33,3 +33,25 @@ body{
 	border-radius: 50px;	
 	background-color: blanchedalmond;
 }
+
+.secondContainer{
+	display:flex;
+	justify-content: space-between;
+	align-content: space-between;
+	align-items: stretch;
+}
+.whyUs{
+	display: flex;
+	justify-content: center;
+
+}
+
+
+.left, .right{
+	display:flex;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+	font-size: 16px;
+    margin: 0;
+}

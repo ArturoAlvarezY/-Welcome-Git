@@ -46,7 +46,6 @@ body{
 
 }
 
-
 .secondSectionContent{
 	display:flex;
 	text-align: center;
@@ -54,4 +53,23 @@ body{
 	justify-content: center;
 	font-size: 16px;
     margin: 0;
+}
+
+.thirdContainer{
+	display: flex;
+	justify-content: space-between;
+	background-color: #555555;
+}
+
+.firstImageSquare{
+	display:flex;
+	width: 100px;
+	height: 91px;
+	align-items: center;
+}
+
+.flexingTheFirstSquare{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }

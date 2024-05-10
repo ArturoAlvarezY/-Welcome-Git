@@ -82,8 +82,28 @@ body{
 }
 .fourSectionTittle{
 	display: flex;
+	justify-content: center;
 }
-.fourContainer{
-	background-color: antiquewhite;
+
+.fivecontainer{
 	display: flex;
+}
+
+.blueSide{
+background-color:rgb(13, 153, 255);
+color: white
+}
+
+.contactSection{
+	display: flex;
+	justify-content: center;
+}
+
+.paragraphBlueSide{
+	text-align: center
+}
+
+
+.graySide{
+	background-color: rgb(117, 117, 117)
 }

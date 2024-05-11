@@ -61,11 +61,31 @@ body{
 	background-color: #555555;
 }
 
+.thirdContainer{
+	width: 100%;
+	display: flex;
+}
+.firstSquare{
+	width: 100%;
+	margin: 20px;
+	background-color: white;
+}
+
+.secondSquare{
+	width: 100%;
+	margin: 20px;
+	background-color: white;
+}
+
+.thirdSquare{
+	width: 100%;
+	margin: 20px;
+	background-color: white;
+}
 .firstImageSquare{
 	display:flex;
-	width: 100px;
-	height: 91px;
-	flex-direction: row-reverse;
+	width: 300px;
+	height: 200px;
 	align-items: center;
 }
 
@@ -77,21 +97,28 @@ body{
 
 .flexImage{
 	display:flex;
-	width: 90px;
-	height: 90px;
+	width: 300px;
+	height: 200px;
 }
 .fourSectionTittle{
 	display: flex;
 	justify-content: center;
 }
 
+.fourParagraphTittle{
+	text-align: center;
+}
 .fivecontainer{
 	display: flex;
 }
 
 .blueSide{
-background-color:rgb(13, 153, 255);
-color: white
+	background-color:rgb(13, 153, 255);
+	color: white;
+}
+
+.mail{
+	text-align: center;
 }
 
 .contactSection{
@@ -105,5 +132,6 @@ color: white
 
 
 .graySide{
-	background-color: rgb(117, 117, 117)
+	background-color: rgb(117, 117, 117);
+	text-align: center;
 }

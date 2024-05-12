@@ -4,11 +4,10 @@ body{
 
 .firstContainer{
 	background-image:url(pexels-rishi-ramoutar-3463164-5176713.jpeg);
-	background-size: auto;
+	background-size: cover;
     background-position: center top;
     width: 100%;
-	height: 100%max-content;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 .welcomeBaby{
